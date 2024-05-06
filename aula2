@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible"content="IE=edge">
+  <link rel="icon" type="imagem/gif" href="" sizes="16x16">
+  <title>Document</title>
+</head>
+<body>
+  <div style="display: flex-start; background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; text-align: center; box-shadow: 6px 6px 7px gray;">
+    <p>Parte de cima do site</p>
+
+  </div>
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; flex-basis: 200; text-align: center; box-shadow: 6px 6px 7px gray;">
+      <p>Inicio</p>
+
+    </div>
+    <div style="background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; flex-basis: 200; text-align: center; box-shadow: 6px 6px 7px gray;">
+      <p>Produtos</p>
+
+    </div>
+    <div style="background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; flex-basis: 200; text-align: center; box-shadow: 6px 6px 7px gray;">
+    <p>Serviços</p>
+
+    </div>
+
+  </div>
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; flex-basis: 200; text-align: center; box-shadow: 6px 6px 7px gray;">
+      <p>Inicio</p>
+
+    </div>
+    <div style="background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; flex-basis: 200; text-align: center; box-shadow: 6px 6px 7px gray;">
+      <p>Produtos</p>
+
+    </div>
+    <div style="background: linear-gradient(to right, #0066cc 10%, #33cccc 90%); margin: 7px; padding: 13px; flex-grow: 1; flex-basis: 200; text-align: center; box-shadow: 6px 6px 7px gray;">
+    <p>Serviços</p>
+
+    </div>
+
+  </div>
+  <div style="display: flex-start; background: linear-gradient(to right, #0066cc 10%, #33cccc 90%);;margin: 7px; padding: 13px; flex-grow: 1; text-align: center; box-shadow: 6px 6px 7px gray;">
+    <p>Rodape do site</p>
+
+  </div>
+</body>
+</html>
